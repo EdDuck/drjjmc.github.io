@@ -21,9 +21,9 @@ The cosmology bit means I sometimes ask big questions about the beginning of the
 
 In fact, as a [Declarative Theoretical Physicist](http://fancyphysics.org), I strive to allow the art of achieving the *what* in my predictions to dictate the stories of the *how*. Towards this end I study and looks for new structures in the scattering amplitudes of relativistic quantum field theories.
 
-I joined the faculty of Northwestern University in 2018. I also currently maintain an associate position at IPhT as an awardee of the 2014 call for European Research Commission Starting Grants. I've been a Member of the [Institute for Advanced Study](http://www.ias.edu) in Princeton,NJ and held a postdoctoral position at the [Stanford Institute for Theoretical Physics](https://sitp.stanford.edu). I received my doctorate at [UCLA](http://www.pa.ucla.edu) in 2010, after earning my undergraduate degree from [Caltech](http://pma.caltech.edu) in 2005.
+I joined the faculty of Northwestern University in 2018.  I've been a Member of the [Institute for Advanced Study](http://www.ias.edu) in Princeton,NJ and held a postdoctoral position at the [Stanford Institute for Theoretical Physics](https://sitp.stanford.edu). I received my doctorate at [UCLA](http://www.pa.ucla.edu) in 2010, after earning my undergraduate degree from [Caltech](http://pma.caltech.edu) in 2005.
 
-Before graduating from Caltech, I worked as a programmer at [Jobtrak Corporation](https://en.wikipedia.org/wiki/JOBTRAK), then as a software and research engineer/scientist at [Goto.com/Overture.com](https://en.wikipedia.org/wiki/Yahoo!_Search_Marketing) where I was responsible for data insight, search serving optimization, winning two patents, and helping begin Overture Research Labs (eventually [Yahoo! Labs](https://en.wikipedia.org/wiki/Yahoo!_Search_Marketing)).
+Before graduating from Caltech, I worked as a programmer at [Jobtrak Corporation](https://en.wikipedia.org/wiki/JOBTRAK), then as a software and research engineer/scientist at [Goto.com/Overture.com](https://en.wikipedia.org/wiki/Yahoo!_Search_Marketing) where I was responsible for data insight, search serving optimization, establishing two patents, and helping begin Overture Research Labs (eventually [Yahoo! Labs](https://en.wikipedia.org/wiki/Yahoo!_Search_Marketing)).
 
 Having been one of the unfortunately few beneficiaries of successfully transitioning from industry into research-driven academia, I've developed some opinions.  For the most part, theoretical physics and industry are separated by a semi-permeable membrane flowing from academia to business. I strongly feel it is in the best interests of both for there to be **much** more bi-directional cross-over.  Indeed if you are not in academia, but you have interest in contributing to fundamental research, please feel free to [drop me a line](mailto:jjmc@prettyquestions.com).
 
@@ -33,14 +33,19 @@ When not thinking/doing/coding/teaching/sharing science for fun and profit, I ru
 
 ## Honors & Awards
 
-* ERC Starting Grant 2014, Principle Investigator, *preQFT: Strategic Predictions for Quantum Field Theories* (2015-).
+* CO-PI, Group DOE Grant[^1], DE-SC0015910: Particle Physics at Northwestern University  (2022-)
+* Named AT&T Research Professorship (2021-2023)
+* Alfred P. Sloan Foundation Research Fellow (2020-2023)
+* PI, Personal DOE Grant[^1], DE-SC0021485: Scattering Amplitudes and QFT Insight (2020-2022)
+* Laureate ERC Starting Grant[^1], Principle Investigator, *preQFT: Strategic Predictions for Quantum Field Theories* (2015-2020).
 * John F. Templeton Grant, Co-leader with Renata Kallosh, *Quantum Gravity Frontiers* (2012-2015).
 * Julian S. Schwinger Named Diploma, Erice International School of Subnuclear Physics (2011).
 * Best Theoretical Physics Prize, Erice International School of Subnuclear Physics (2011).
 * Stanford Institute for Theoretical Physics, Postdoctoral Research Scholar Fellowship (2010-2013).
 * Guy Weyl Physics Alumni Graduate Fellowship (2007-2010).
 * John S. Bell Named Diploma, Erice International School of Subnuclear Physics (2008).
-* Best [open] Question Prize [^footnote], Erice International School of Subnuclear Physics (2008).
+* Best [open] Question Prize [^2], Erice International School of Subnuclear Physics (2008).
 
 
-[^footnote]: re: economy of physical descriptions, c.f. the amount of information encoded in real numbers.
+[^1]: The awarding of funding for fundamental theoretical research is absolutely an honor and a tremendous responsability.
+[^2]: re: economy of physical descriptions, c.f. the amount of information encoded in real numbers.
