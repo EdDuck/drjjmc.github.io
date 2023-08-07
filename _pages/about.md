@@ -13,7 +13,7 @@ comments: true
 
 ## Bio
 
-I'm a theoretical physicist and occasional cosmologist at [Northwestern University](https://www.physics.northwestern.edu/people/faculty/core-faculty/) with an associate position at the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
+I'm a theoretical physicist and occasional cosmologist at [Northwestern University](https://www.physics.northwestern.edu/people/faculty/core-faculty/), formerly at the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
 This means I get to ask questions for a living.
 
